@@ -1,0 +1,8 @@
+./Build/*.o
+./Build/example
+
+Build/lib.o
+
+Build/main.o
+
+Build/example
